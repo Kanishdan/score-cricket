@@ -1,0 +1,33 @@
+.page-homes {
+    --ion-background-color:#4d71d7;
+}
+.page-headers{
+    color: #ffffff;
+} 
+.page-bodys{
+    --ion-background-color:#ffffff;
+}
+.page-cards{
+    --ion-background-color: #ffffff;
+    height: 75%;
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+    border-radius: 40px;
+    
+}
+.ioncontent{
+    --background: url('/assets/images/background.png') no-repeat center center/cover fixed;
+}
+ .row{
+    position: fixed; 
+    left: 0px;
+    bottom: 20px;
+    right: 0px;
+} 
+.welcome{
+    margin-top: 20px;
+    color: #033e66;
+}

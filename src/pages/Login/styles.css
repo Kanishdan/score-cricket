@@ -1,0 +1,57 @@
+.page-home1 {
+    --ion-background-color:#4d71d7;
+}
+
+.page-header1{
+    color: #ffffff;
+} 
+.heading{
+    font-size: 1.8rem;
+    color :  #0863cc;
+}
+.page-body1{
+    --ion-background-color: #f766b6;
+}
+.page-card1{
+    --ion-background-color: #ffffff;
+    height: 75%;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    border-radius: 40px;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+ .roundedInput1{
+     /* --border-color: var(--ion-color-medium-shade);  */
+     --border-radius: 30px; 
+    /* --box-shadow: 2px rgb(255, 255, 255); */
+    --background: #f8f9fa;
+} 
+
+.facebook1{
+    --ion-background-color:#3B5998;
+    text-align: center;
+    --ion-grid-padding: 10px;
+}
+.google1{
+    --ion-background-color:#db4a39;
+    text-align: center;
+    --ion-grid-padding: 10px;
+}
+
+.text2{
+    font-size: 0.6rem;
+    text-align: center;
+}
+.text3{
+    font-size: 1rem;
+    color :  #0863cc;
+}
+.forgot{
+    color :  #0863cc;
+}
+
+

@@ -1,0 +1,146 @@
+.page-homesr {
+    --ion-background-color:#4d71d7;
+}
+
+.page-headersr{
+    color: #ffffff;
+} 
+.page-header2sr{
+    color: #043766;
+}
+.page-header3sr{
+    color: #9e0929;
+}
+.headingsr{
+    font-size: 1.8rem;
+    color :  #0863cc;
+}
+.page-bodysr{
+    --ion-background-color: #f766b6;
+}
+.page-cardsr{
+    --ion-background-color: #ffffff;
+    height: 75%;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    border-radius: 40px;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+ .roundedInputsr{
+     /* --border-color: var(--ion-color-medium-shade);  */
+     /* --border-radius: 30px;  */
+    /* --box-shadow: 2px rgb(255, 255, 255); */
+    /* --background: #f8f9fa; */
+    color: #000000;
+    /* color: blue; */
+    font-weight: bold;
+    /* vertical-align: middle; */
+    margin: 10px;
+} 
+
+.paragraph{
+    color :  #424e55;
+    font-size: 0.8rem;
+}
+
+.list{
+    text-decoration: none;
+}
+
+.itemform {
+    border-radius: 10px !important;
+    padding-left: 30px !important;
+    padding-right: 30px;
+    font-size: 0.9em;
+    border: 1px solid #f1f1f1;
+    background: rgb(219, 219, 219);
+    height: 10%;
+    width: 50%;
+}
+
+.score-selector{
+color: #ffffff;
+background:#ec0738ec;
+margin: 5px;
+text-align: center;
+height: 30px;
+}
+.col-centered{
+    margin: auto;
+  display: block;
+}
+.cardsr{
+    display: flex;
+    flex-direction: column;
+    width: 100% !important;
+    margin: 0 !important;
+    height: 200px;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+.contentsr{
+    height: 550px;
+}
+.cardTitle{
+    font-size: 15px;
+    background: #0863cc;
+    border-radius: 30px;
+    text-align: center;
+    height: 20px;
+    color: #ffffff;
+    margin: 0 !important;
+}
+
+.runs-cardsr{
+    background: #ec0738;
+    font-size: 20px;
+    border-radius: 30px;
+    text-align: center;
+    height: 20px;
+    color: #ffffff;
+    margin: 0 !important;
+}
+.runs-wicketssr{
+    color: #ffffff;
+    text-align: center;
+    padding: 1px;
+}
+
+.modal{
+    /* --max-height: 600px;
+    --max-width: 1000px;
+    --min-height: 300px;
+    --min-width: 150px; */
+    height: 300px;
+    width: 200px;
+    --border-style: ;
+    --border-radius: ;
+    --border-color: #087ecc;
+    top: 30%;
+    right: 2%; 
+    bottom: 10%;
+    left: 40%;
+}
+.modal-headersr{
+    --ion-background-color:#ec6e07;
+    
+}
+.modal-titlesr{
+    color: #ffffff;
+}
+.modal-contentsr{
+    --ion-background-color:#ec0779;
+    
+}
+.modal-contenttextsr{
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.modal-close{
+    color: red;
+}
